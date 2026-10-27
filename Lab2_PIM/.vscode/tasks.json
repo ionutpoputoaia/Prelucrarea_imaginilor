@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build Lab2_PIM",
+            "type": "shell",
+            "command": "/usr/bin/cmake --build build -j$(nproc)",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "configure Lab2_PIM",
+            "type": "shell",
+            "command": "/usr/bin/cmake -S . -B build -DCMAKE_PREFIX_PATH=/usr",
+            "problemMatcher": []
+        },
+        {
+            "label": "configure + build",
+            "type": "shell",
+            "command": "/usr/bin/cmake -S . -B build -DCMAKE_PREFIX_PATH=/usr && /usr/bin/cmake --build build -j$(nproc)",
+            "group": "build",
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}

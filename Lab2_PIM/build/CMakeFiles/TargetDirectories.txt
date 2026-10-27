@@ -1,0 +1,5 @@
+/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/Lab2_PIM.dir
+/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/edit_cache.dir
+/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/rebuild_cache.dir
+/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/Lab2_PIM_autogen_timestamp_deps.dir
+/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/Lab2_PIM_autogen.dir

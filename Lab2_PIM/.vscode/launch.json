@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Lab2_PIM",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Lab2_PIM",
+            "cwd": "${workspaceFolder}/build",
+            "preLaunchTask": "build Lab2_PIM",
+            "MIMode": "gdb",
+            "externalConsole": false,
+            "visualizerFile": "/home/ion/.config/Code/User/workspaceStorage/283ce49b5d6eebae0a0de9147d589d76/tonka3000.qtvsctools/qt.natvis.xml"
+        }
+    ]
+}

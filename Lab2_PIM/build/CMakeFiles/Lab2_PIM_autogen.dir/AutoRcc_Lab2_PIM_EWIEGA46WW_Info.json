@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/Lab2_PIM_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM",
+	"CMAKE_SOURCE_DIR" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/Lab2_PIM_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/Lab2_PIM_autogen.dir/AutoRcc_Lab2_PIM_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Lab2_PIM" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Lab2_PIM.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib64/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/build/CMakeFiles/Lab2_PIM_autogen.dir/AutoRcc_Lab2_PIM_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/ion/Documents/facultate/an_III/sem_1/PI/baza_proiect_vscode/Lab2_PIM/Lab2_PIM.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
